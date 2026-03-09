@@ -18,5 +18,5 @@
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danneba&layout=compact&theme=blueberry)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danneba&theme=blue)
+<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danneba&theme=blue) -->
 
